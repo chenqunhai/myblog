@@ -1,0 +1,21 @@
+{
+    "name": "chenqunhai",
+    "version": "0.0.1",
+    "description": "\"我的个人博客\"",
+    "keywords": [
+        "c"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "chenqunhai <845465317@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "index.md"
+        ]
+    }
+}
